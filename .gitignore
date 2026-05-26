@@ -1,19 +1,24 @@
 # Obsidian Git 同步 - .gitignore
 
-## 排除目录
-.obsidian/plugins/        # 插件配置（用户个性化）
-.obsidian/community-plugins.json  # 已安装插件列表（可选保留）
-.obsidian/snippets/       # 自定义 CSS（如果有）
+## 排除目录（这些不需要同步）
+.obsidian/plugins/              # 插件目录（包含嵌入式仓库和可能的密钥）
+.obsidian/snippets/             # 自定义 CSS
+.obsidian/cache/                # 缓存目录
+.obsidian/log/                  # 日志目录
+.claudian/                      # Claude 会话历史
 
 ## 排除文件
-.DS_Store               # macOS 系统文件
-*.log                   # 日志文件
-*.tmp                   # 临时文件
+.DS_Store                       # macOS 系统文件
+*.log                           # 日志文件
+*.tmp                           # 临时文件
+*.swp                           # Vim 临时文件
+*~                              # 备份文件
 
-## 可选：排除缓存
-# .obsidian/cache/       # 缓存目录
-# .obsidian/log/         # 日志目录
+# 排除包含密钥的文件（可能有敏感信息）
+# .obsidian/plugins/remotely-save/  # 远程同步插件（可能包含 OAuth 密钥）
 
-## 可选：排除特定文件夹（根据需要调整）
-# 30-📂项目管理/         # 如果不需要同步项目数据
-# 98-模板/               # 如果模板不需要同步
+## ⚠️ 注意
+# 如果你需要同步插件配置（主题、插件列表等），可以将以下行注释掉：
+# .obsidian/community-plugins.json
+# .obsidian/workspace.json
+# .obsidian/themes/
