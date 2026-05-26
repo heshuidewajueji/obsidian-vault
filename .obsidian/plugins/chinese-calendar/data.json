@@ -1,0 +1,34 @@
+{
+  "daily": {
+    "useQuickAdd": false,
+    "quickAddChoice": ""
+  },
+  "weekly": {
+    "useQuickAdd": false,
+    "quickAddChoice": ""
+  },
+  "monthly": {
+    "useQuickAdd": false,
+    "quickAddChoice": ""
+  },
+  "quarterly": {
+    "useQuickAdd": false,
+    "quickAddChoice": ""
+  },
+  "yearly": {
+    "useQuickAdd": false,
+    "quickAddChoice": ""
+  },
+  "appearance": {
+    "useScale": false,
+    "layout": "Normal",
+    "pastTimeTransparent": false
+  },
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "propertiesInDocument": "visible",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "01-收件箱（新信息入口）",
+  "attachmentFolderPath": "./附件"
+}

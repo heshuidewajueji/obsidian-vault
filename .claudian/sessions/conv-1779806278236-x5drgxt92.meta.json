@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779806278236-x5drgxt92",
+  "providerId": "claude",
+  "title": "Research feasibility online",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779806278237,
+  "updatedAt": 1779809194170,
+  "lastResponseAt": 1779809194170,
+  "sessionId": "38b4f49f-c3ee-40a0-917c-b8445b41b24d",
+  "providerState": {
+    "providerSessionId": "38b4f49f-c3ee-40a0-917c-b8445b41b24d"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 108791,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 105355,
+    "contextWindow": 200000,
+    "contextTokens": 214146,
+    "percentage": 100,
+    "contextWindowIsAuthoritative": true
+  }
+}

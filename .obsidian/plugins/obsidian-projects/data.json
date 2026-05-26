@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": true,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "30-📂项目管理",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "269b0ad1-c274-4439-90ec-7bd1324b264f",
+          "name": "表格",
+          "type": "table"
+        },
+        {
+          "config": {
+            "groupByField": "状态",
+            "columns": {
+              "待处理": {
+                "records": [
+                  "30-📂项目管理/测试项目-Obsidian插件探索.md",
+                  "30-📂项目管理/任务示例-测试四种视图.md",
+                  "30-📂项目管理/00-项目管理主页.md"
+                ]
+              },
+              "未设置状态": {
+                "records": []
+              },
+              "进行中": {
+                "records": [
+                  "30-📂项目管理/任务示例-配置Projects插件.md"
+                ]
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "33f82633-f0ee-4f5e-bea9-4eff2a79a0d5",
+          "name": "看板",
+          "type": "board"
+        },
+        {
+          "config": {
+            "interval": "month",
+            "checkField": ""
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "c93d1e62-3d03-4779-b4af-e69dd67e5005",
+          "name": "日历",
+          "type": "calendar"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "967e38cd-e655-4616-a8c6-f444abd7fcb7",
+          "name": "画册",
+          "type": "gallery"
+        }
+      ],
+      "id": "c744fe5e-2c4a-4c07-b8e8-7bef6715208b",
+      "name": "未命名项目"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "locale": {
+      "firstDayOfWeek": "default"
+    },
+    "commands": [],
+    "linkBehavior": "open-editor"
+  }
+}

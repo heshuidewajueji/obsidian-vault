@@ -1,0 +1,50 @@
+{
+  "daily": {
+    "useQuickAdd": false,
+    "quickAddChoice": "",
+    "folder": "40-个人成长/journal",
+    "format": "YYYY-MM-DD",
+    "template": "99-模板/05-日记模板.md"
+  },
+  "weekly": {
+    "useQuickAdd": false,
+    "quickAddChoice": "",
+    "folder": "40-个人成长/journal",
+    "format": "YYYY-[W]WW",
+    "template": "40-个人成长/每周复盘模板.md"
+  },
+  "monthly": {
+    "useQuickAdd": false,
+    "quickAddChoice": "",
+    "folder": "40-个人成长/journal",
+    "format": "YYYY-MM",
+    "template": "40-个人成长/每月复盘模板.md"
+  },
+  "quarterly": {
+    "useQuickAdd": false,
+    "quickAddChoice": "",
+    "folder": "",
+    "format": "YYYY-[Q]Q",
+    "template": ""
+  },
+  "yearly": {
+    "useQuickAdd": false,
+    "quickAddChoice": "",
+    "folder": "",
+    "format": "YYYY",
+    "template": ""
+  },
+  "appearance": {
+    "useScale": false,
+    "layout": "Normal",
+    "pastTimeTransparent": true
+  },
+  "promptDelete": false,
+  "showLineNumber": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "01-收件箱（新信息入口）",
+  "attachmentFolderPath": "./附件",
+  "alwaysUpdateLinks": true,
+  "detectAllFileExtensions": true,
+  "showUnsupportedFiles": true
+}

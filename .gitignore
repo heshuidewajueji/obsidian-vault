@@ -1,0 +1,19 @@
+# Obsidian Git 同步 - .gitignore
+
+## 排除目录
+.obsidian/plugins/        # 插件配置（用户个性化）
+.obsidian/community-plugins.json  # 已安装插件列表（可选保留）
+.obsidian/snippets/       # 自定义 CSS（如果有）
+
+## 排除文件
+.DS_Store               # macOS 系统文件
+*.log                   # 日志文件
+*.tmp                   # 临时文件
+
+## 可选：排除缓存
+# .obsidian/cache/       # 缓存目录
+# .obsidian/log/         # 日志目录
+
+## 可选：排除特定文件夹（根据需要调整）
+# 30-📂项目管理/         # 如果不需要同步项目数据
+# 98-模板/               # 如果模板不需要同步

@@ -1,0 +1,78 @@
+{
+  "installedVersion": "1.0.0",
+  "activeCalendarSet": "Default",
+  "showGettingStartedBanner": false,
+  "hasMigratedDailyNoteSettings": true,
+  "hasMigratedWeeklyNoteSettings": true,
+  "calendarSets": [
+    {
+      "day": {
+        "enabled": true,
+        "format": "YYYY-MM-DD",
+        "folder": "40-个人成长/journal",
+        "openAtStartup": true,
+        "templatePath": "40-个人成长/每日日记模板.md"
+      },
+      "week": {
+        "enabled": true,
+        "format": "YYYY-[W]WW",
+        "folder": "40-个人成长/journal",
+        "openAtStartup": false,
+        "templatePath": ""
+      },
+      "month": {
+        "enabled": true,
+        "format": "YYYY-MM",
+        "folder": "40-个人成长/journal",
+        "openAtStartup": false,
+        "templatePath": ""
+      },
+      "quarter": {
+        "enabled": false,
+        "format": "YYYY-[Q]Q",
+        "folder": "",
+        "openAtStartup": false,
+        "templatePath": ""
+      },
+      "year": {
+        "enabled": false,
+        "format": "YYYY",
+        "folder": "",
+        "openAtStartup": false,
+        "templatePath": ""
+      },
+      "id": "Default"
+    }
+  ],
+  "enableTimelineComplication": true,
+  "daily": {
+    "format": "YYYY-MM-DD",
+    "template": "40-个人成长/每日日记模板.md",
+    "folder": "40-个人成长/journal",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "YYYY-[W]WW",
+    "template": "",
+    "folder": "40-个人成长/journal",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "YYYY-MM",
+    "template": "",
+    "folder": "40-个人成长/journal",
+    "enabled": true
+  },
+  "quarterly": {
+    "format": "YYYY-[Q]Q",
+    "template": "",
+    "folder": "",
+    "enabled": false
+  },
+  "yearly": {
+    "format": "YYYY",
+    "template": "",
+    "folder": "",
+    "enabled": false
+  }
+}

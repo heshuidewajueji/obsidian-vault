@@ -1,0 +1,48 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "quickadd:choice:67d918e9-b180-4dd3-a0aa-6e98b0b62651",
+      "icon": "lucide-activity-square",
+      "name": "QuickAdd: 会议纪要",
+      "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:eaa1df7d-632e-4710-a070-ab655ef2d82c",
+      "icon": "lucide-a-arrow-up",
+      "name": "QuickAdd: 闪念",
+      "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:6151c5bb-18da-46a7-a404-5eb063c6c6b7",
+      "icon": "lucide-air-vent",
+      "name": "QuickAdd: 日记",
+      "mode": "any"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}
