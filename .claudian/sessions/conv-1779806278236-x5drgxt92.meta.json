@@ -4,19 +4,19 @@
   "title": "Research feasibility online",
   "titleGenerationStatus": "success",
   "createdAt": 1779806278237,
-  "updatedAt": 1779809194170,
-  "lastResponseAt": 1779809194170,
+  "updatedAt": 1779810673120,
+  "lastResponseAt": 1779810673120,
   "sessionId": "38b4f49f-c3ee-40a0-917c-b8445b41b24d",
   "providerState": {
     "providerSessionId": "38b4f49f-c3ee-40a0-917c-b8445b41b24d"
   },
   "usage": {
     "model": "opus",
-    "inputTokens": 108791,
+    "inputTokens": 131343,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 105355,
+    "cacheReadInputTokens": 125148,
     "contextWindow": 200000,
-    "contextTokens": 214146,
+    "contextTokens": 256491,
     "percentage": 100,
     "contextWindowIsAuthoritative": true
   }

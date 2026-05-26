@@ -14,31 +14,16 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://www.xiaohongshu.com/explore/6a1466c9000000000800306c?xsec_token=LB6mLOhS8MQ9wL8s1fhlSyocTMDWqF_WHCwE6xyXFdQas=&xsec_source=pc_notice",
-                "title": "在obsidian中实现专业的项目管理 - 小红书",
+                "url": "https://www.xiaohongshu.com/explore/6a151cd60000000036033fd2?xsec_token=LB3kkzSqAYgC_BY1RluxzEwN0iYL6Fummtr3O-tRGrh-s=&xsec_source=pc_notice",
+                "title": "如何让你的Agent更稳定 - 小红书",
                 "mode": "webview"
               },
               "pinned": true,
               "icon": "globe-2",
-              "title": "在obsidian中实现专业的项目管理 - 小红书"
-            }
-          },
-          {
-            "id": "e6fbdb442fe6d1cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "30-📂项目管理/00-项目管理主页.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "00-项目管理主页"
+              "title": "如何让你的Agent更稳定 - 小红书"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,8 +227,9 @@
   },
   "active": "3b5d83a85215e85c",
   "lastOpenFiles": [
-    "20-🔧AI与工具/10-King的电脑人工维护历史记录/2026-05-26-Obsidian项目管理插件可行性调研-v1.md.tmp.9428.b41733311794",
+    "30-📂项目管理/知识一体化-最佳实践指南.md",
     "30-📂项目管理/00-项目管理主页.md",
+    "20-🔧AI与工具/10-King的电脑人工维护历史记录/2026-05-26-Obsidian项目管理插件可行性调研-v1.md.tmp.9428.b41733311794",
     "98-模板/模板-标准任务.md",
     "30-📂项目管理/模板-标准任务.md",
     "98-模板/模板-标准项目.md",
@@ -277,7 +263,6 @@
     "20-🔧AI与工具/10-King的电脑人工维护历史记录",
     "10-📚Learning/cc-switch学习课程",
     "10-📚Learning/OpenClaw学习课程",
-    "20-🔧AI与工具/03-OpenClaw",
     "90-归档/ai-coding-bootcamp-2026-season1/ai-coding-bootcamp-master/assets/overview.svg",
     "90-归档/ai-coding-bootcamp-2026-season1/ai-coding-bootcamp-master/assets/overview.png",
     "90-归档/ai-coding-bootcamp-2026-season1/ai-coding-bootcamp-master/assets/details.svg",
