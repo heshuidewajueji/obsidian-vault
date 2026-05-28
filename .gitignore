@@ -22,3 +22,8 @@
 # .obsidian/community-plugins.json
 # .obsidian/workspace.json
 # .obsidian/themes/
+# AI配置目录（这些是本地工具配置，不需要同步）
+.claude/                      # Claude Code本地配置和会话历史
+.claudian/                    # Claude会话元数据
+00-🤖AI共享层/.backup.log      # 备份日志
+00-🤖AI共享层/.cleanup.log    # 清理日志

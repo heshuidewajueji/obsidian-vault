@@ -34,12 +34,12 @@ Claude Code 是 Anthropic（Claude AI 的开发者）于 **2025年** 推出的**
 
 ### 安装方式对比
 
-| 安装方式 | 命令 | 适用平台 |
-|----------|------|----------|
-| 原生安装 | `curl -fsSL https://claude.ai/install.ps1 \| iex` | Windows |
-| npm 安装 | `npm install -g @anthropic-ai/claude-code` | Mac/Linux（含 Node 环境）|
-| Homebrew | `brew install claude-code` | macOS |
-| WinGet | `winget install Claude.ClaudeCode` | Windows |
+| 安装方式     | 命令                                                | 适用平台                 |
+| -------- | ------------------------------------------------- | -------------------- |
+| 原生安装     | `curl -fsSL https://claude.ai/install.ps1 \| iex` | Windows              |
+| npm 安装   | `npm install -g @anthropic-ai/claude-code`        | Mac/Linux（含 Node 环境） |
+| Homebrew | `brew install claude-code`                        | macOS                |
+| WinGet   | `winget install Claude.ClaudeCode`                | Windows              |
 
 ### 验证安装
 ```bash

@@ -14,13 +14,13 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://www.xiaohongshu.com/explore/6a151cd60000000036033fd2?xsec_token=LB3kkzSqAYgC_BY1RluxzEwN0iYL6Fummtr3O-tRGrh-s=&xsec_source=pc_notice",
-                "title": "如何让你的Agent更稳定 - 小红书",
+                "url": "https://www.xiaohongshu.com/explore/6a1818e70000000036032d6d?xsec_token=LBSeyOywMvz7LyEXov82ETq4t7J6LdDM2fFpf0g2UUG8I=&xsec_source=pc_notice",
+                "title": "这个开源项目直接让你家AI智商提升17倍 - 小红书",
                 "mode": "webview"
               },
               "pinned": true,
               "icon": "globe-2",
-              "title": "如何让你的Agent更稳定 - 小红书"
+              "title": "这个开源项目直接让你家AI智商提升17倍 - 小红书"
             }
           }
         ]
@@ -90,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325
+    "width": 352
   },
   "right": {
     "id": "37c729d72e4dcf3a",
@@ -199,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 419
+    "width": 516,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,7 +214,6 @@
       "bases:新建数据库": false,
       "daily-notes:打开/创建今天的日记": false,
       "obsidian-kanban:创建新看板": false,
-      "remotely-save:Remotely Save": false,
       "obsidian42-brat:BRAT": false,
       "quickadd:QuickAdd": false,
       "templater-obsidian:Templater": false,
@@ -225,44 +225,44 @@
       "obsidian-projects:打开项目": false
     }
   },
-  "active": "3b5d83a85215e85c",
+  "active": "9fc57a6fd629fa0a",
   "lastOpenFiles": [
-    "30-📂项目管理/知识一体化-最佳实践指南.md",
-    "30-📂项目管理/00-项目管理主页.md",
-    "20-🔧AI与工具/10-King的电脑人工维护历史记录/2026-05-26-Obsidian项目管理插件可行性调研-v1.md.tmp.9428.b41733311794",
-    "98-模板/模板-标准任务.md",
-    "30-📂项目管理/模板-标准任务.md",
-    "98-模板/模板-标准项目.md",
-    "30-📂项目管理/模板-标准项目.md",
-    "98-模板",
-    "99-归档",
-    "30-📂项目管理/测试项目-Obsidian插件探索.md",
-    "20-🔧AI与工具/10-King的电脑人工维护历史记录/2026-05-26-Obsidian项目管理插件可行性调研-v1.md",
-    "30-📂项目管理/任务示例-配置Projects插件.md",
-    "30-📂项目管理/任务示例-测试四种视图.md",
-    "Projects - Demo Project/Why You Should Be Taking More Notes.md",
-    "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
-    "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
-    "Projects - Demo Project/The Best Notes You'll Ever Make.md",
-    "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
-    "Projects - Demo Project",
-    "30-📂项目管理",
-    "20-🔧AI与工具/10-King的电脑人工维护历史记录/2026-05-24-AI工具协作方案重塑-v1.4.md",
-    "10-📚Learning/cc-switch学习课程/cc-switch 7 -课程毕业总结.md",
-    "10-📚Learning/cc-switch学习课程/cc-switch 6 -实战应用.md",
-    "10-📚Learning/cc-switch学习课程/cc-switch 5 -高级功能.md",
-    "10-📚Learning/cc-switch学习课程/cc-switch 4 -Skills管理.md",
-    "10-📚Learning/cc-switch学习课程/cc-switch 3 -核心功能.md",
-    "10-📚Learning/cc-switch学习课程/cc-switch 2 -安装与配置.md",
-    "10-📚Learning/cc-switch学习课程/cc-switch 1 -认识cc-switch.md",
-    "10-📚Learning/cc-switch学习课程/00-cc-switch课程目录.md",
-    "20-🔧AI与工具/05-Github",
-    "20-🔧AI与工具/04-Trae",
-    "10-📚Learning/OpenClaw学习课程/OpenClaw 3 -核心功能.md",
-    "10-📚Learning/OpenClaw学习课程/OpenClaw 2 -安装与配置.md",
-    "20-🔧AI与工具/10-King的电脑人工维护历史记录",
-    "10-📚Learning/cc-switch学习课程",
-    "10-📚Learning/OpenClaw学习课程",
+    "30-📂项目管理/知识沉淀",
+    "00-🤖AI共享层/02-Archive/旧结构备份/README-AutoScript.md",
+    "00-🤖AI共享层/02-Archive/旧结构备份/04-Tasks",
+    "00-🤖AI共享层/02-Archive/旧结构备份/03-Context",
+    "00-🤖AI共享层/02-Archive/旧结构备份/02-Projects",
+    "00-🤖AI共享层/02-Archive/旧结构备份/01-Preferences",
+    "00-🤖AI共享层/02-Archive/旧结构备份",
+    "00-🤖AI共享层/MEMORY.md",
+    "00-🤖AI共享层/WORKING.md",
+    "00-🤖AI共享层/02-框架与原则/工程控制论-Agent监控框架.md",
+    "00-🤖AI共享层/02-Archive/2026-05",
+    "00-🤖AI共享层/01-Preferences/USER.md",
+    "00-🤖AI共享层/01-Preferences/MEMORY.md",
+    "00-🤖AI共享层/README.md",
+    "00-🤖AI共享层/README-AutoScript.md",
+    "00-🤖AI共享层/04-Tasks",
+    "00-🤖AI共享层/03-Context",
+    "00-🤖AI共享层/02-框架与原则",
+    "00-🤖AI共享层/02-Projects",
+    "CLAUDE.md",
+    "10-📚Learning/Claude-Code学习课程/Lesson 6 -Skills系统.md",
+    "02-👩🏻‍🎓个人档案/00-了解你提问单.md",
+    "10-📚Learning/SQE职业成长课程/01-基础课程.md",
+    "10-📚Learning/SQE职业成长课程/10-项目管理知识体系PMBOK.md",
+    "10-📚Learning/SQE职业成长课程/13-IATF16949深度解读.md",
+    "10-📚Learning/SQE职业成长课程/12-研发管理方法论.md",
+    "10-📚Learning/SQE职业成长课程/15-GBT32960车联网平台.md",
+    "10-📚Learning/SQE职业成长课程/06-AIAG五大工具.md",
+    "10-📚Learning/SQE职业成长课程/00-学习路径总览.md",
+    "10-📚Learning/Claude-Code学习课程/Lesson 1 -认识Claude-Code.md",
+    "10-📚Learning/SQE职业成长课程/16-车规级电子元器件可靠性.md",
+    "10-📚Learning/SQE职业成长课程/14-ISO9001质量管理体系.md",
+    "10-📚Learning/SQE职业成长课程/08-IPC电子组装标准.md",
+    "10-📚Learning/SQE职业成长课程/07-VDA6.3审核方法.md",
+    "10-📚Learning/SQE职业成长课程/09-朱兰质量管理理念.md",
+    "10-📚Learning/SQE职业成长课程/11-沃尔沃整车开发流程.md",
     "90-归档/ai-coding-bootcamp-2026-season1/ai-coding-bootcamp-master/assets/overview.svg",
     "90-归档/ai-coding-bootcamp-2026-season1/ai-coding-bootcamp-master/assets/overview.png",
     "90-归档/ai-coding-bootcamp-2026-season1/ai-coding-bootcamp-master/assets/details.svg",

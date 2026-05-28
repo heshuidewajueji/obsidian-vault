@@ -563,6 +563,39 @@ claude "将以下会议内容整理为 Obsidian 笔记：
 > 3. **双剑合璧**：Claudian 负责即时问答，MCP 负责批量操作
 > 4. **快速创建**：Claude 生成，Obsidian 存储
 > 5. **定期自动化**：Cron 任务驱动整理
+> 6. **vin-prompts 命令**：25 个 AI 分析命令，把笔记变成"第二大脑"
+
+---
+
+## 附录：vin-prompts 命令速查
+
+### 每日工作流
+| 命令 | 功能 |
+|------|------|
+| `/obsidian-day-today` | 今日计划 |
+| `/obsidian-day-close` | 复盘收尾 |
+| `/obsidian-day-7plan` | 本周规划 |
+| `/obsidian-day-weekly` | 周总结 |
+
+### 知识挖掘
+| 命令 | 功能 |
+|------|------|
+| `/obsidian-mine-emerge` | 挖掘隐藏结论 |
+| `/obsidian-mine-make` | 识别可发布内容 |
+
+### 深度分析
+| 命令 | 功能 |
+|------|------|
+| `/obsidian-think-challenge` | 压力测试信念 |
+| `/obsidian-think-contradict` | 发现观点矛盾 |
+
+### 内容输出
+| 命令 | 功能 |
+|------|------|
+| `/obsidian-write-learned` | 生成文章 |
+| `/obsidian-write-interview` | 生成面试题 |
+
+> 完整命令列表见 [[Lesson 6 -Skills系统]] 第九、十章
 
 ---
 
@@ -584,4 +617,4 @@ claude "将以下会议内容整理为 Obsidian 笔记：
 
 ---
 
-*Tags: #claude-code #场景课 #obsidian #笔记管理 #知识管理 #MCP #Claudian*
+*Tags: #claude-code #场景课 #obsidian #笔记管理 #知识管理 #MCP #Claudian #vin-prompts*

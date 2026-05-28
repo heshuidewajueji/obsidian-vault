@@ -257,12 +257,162 @@ Claude 会帮你生成完整的 SKILL.md 文件。
 
 ---
 
+## 九、已安装 Skills 列表
+
+### 9.1 办公文档四件套
+
+| Skill | 用途 |
+|-------|------|
+| **docx** | Word 文档创建、编辑 |
+| **xlsx** | Excel 表格处理 |
+| **pdf** | PDF 读取、合并、拆分、OCR |
+| **pptx** | PowerPoint 幻灯片 |
+
+### 9.2 设计前端
+
+| Skill | 用途 |
+|-------|------|
+| **frontend-design** | 生成有审美的前端界面 |
+| **web-design-guidelines** | Web 设计规范 |
+
+### 9.3 联网工具
+
+| Skill | 用途 |
+|-------|------|
+| **web-access** | 联网搜索、网页抓取、小红书/B站内容 |
+
+### 9.4 Obsidian 工具
+
+| Skill | 用途 |
+|-------|------|
+| **obsidian-cli** | Obsidian 命令行交互 |
+| **obsidian-markdown** | Obsidian Markdown 语法 |
+| **obsidian-bases** | Obsidian 基础知识 |
+
+### 9.5 开发辅助
+
+| Skill | 用途 |
+|-------|------|
+| **claude-api** | Claude API / Anthropic SDK 开发 |
+| **react-best-practices** | React 最佳实践 |
+| **systematic-debugging** | 系统化调试 |
+| **test-driven-development** | TDD 测试驱动开发 |
+| **write-unit-tests** | 编写单元测试 |
+| **full-test-coverage** | 完整测试覆盖 |
+| **code-review** | 代码审查 |
+| **architecture-health-check** | 代码架构健康检查 |
+
+### 9.6 协作沟通
+
+| Skill | 用途 |
+|-------|------|
+| **hermes** | 跨平台消息（Telegram/Discord/Slack 等） |
+| **internal-comms** | 内部协作沟通 |
+| **brainstorming** | 头脑风暴 |
+| **delivery-checklist** | 交付清单 |
+
+### 9.7 知识管理
+
+| Skill | 用途 |
+|-------|------|
+| **skill-manage** | Skills 分类、同步、备份 |
+| **subagent-handoff-protocol** | 子代理交接协议 |
+
+### 9.8 其他
+
+| Skill | 用途 |
+|-------|------|
+| **yuanbao** | 特定功能 |
+| **日终控制论梳理** | 每日复盘 |
+| **json-canvas** | JSON 可视化画布 |
+| **doc-coauthoring** | 文档协作 |
+| **composition-patterns** | 写作模式 |
+| **self-evaluation-checkpoint** | 自我评估 |
+
+---
+
+## 十、vin-prompts 命令库（已安装）
+
+**来源**：[ed-mays/internet-vin-prompts](https://github.com/ed-mays/internet-vin-prompts)
+
+**安装位置**：`.claude/commands/`
+
+### 10.1 每日工作流
+
+| 命令 | 功能 |
+|------|------|
+| `/obsidian-day-today` | 基于近期笔记生成今日计划 |
+| `/obsidian-day-close` | 复盘当天工作 |
+| `/obsidian-day-7plan` | 规划未来 7 天 |
+| `/obsidian-day-weekly` | 生成周学习总结 |
+
+### 10.2 知识挖掘
+
+| 命令 | 功能 |
+|------|------|
+| `/obsidian-mine-emerge` | 挖掘隐藏结论 |
+| `/obsidian-mine-make` | 识别可发布内容 |
+| `/obsidian-mine-graduate` | 碎片升级为独立笔记 |
+| `/obsidian-mine-ideas` | 跨领域生成想法 |
+
+### 10.3 深度分析
+
+| 命令 | 功能 |
+|------|------|
+| `/obsidian-think-challenge` | 压力测试信念 |
+| `/obsidian-think-contradict` | 发现观点矛盾 |
+| `/obsidian-think-trace` | 追踪思想演变 |
+| `/obsidian-think-drift` | 对比意图 vs 行为 |
+| `/obsidian-think-leverage` | 找高杠杆技能 |
+| `/obsidian-think-connect` | 跨领域连接 |
+
+### 10.4 内容输出
+
+| 命令 | 功能 |
+|------|------|
+| `/obsidian-write-learned` | 生成深度文章 |
+| `/obsidian-write-interview` | 生成面试题 |
+| `/obsidian-write-profile` | 更新简历 |
+
+### 10.5 知识库结构
+
+| 命令 | 功能 |
+|------|------|
+| `/obsidian-vault-map` | 分析知识库拓扑 |
+| `/obsidian-vault-backlinks` | 修复断链 |
+| `/obsidian-vault-world` | 加载完整上下文 |
+
+### 10.6 策略
+
+| 命令 | 功能 |
+|------|------|
+| `/obsidian-grow-money` | 收入诊断与机会发现 |
+
+### 10.7 自定义新增命令
+
+| 命令 | 功能 | 来源 |
+|------|------|------|
+| `/research-deep-dive` | 深度研究，整合 Vault 内外部信息 | 自定义 |
+| `/note-optimize` | 分析 Vault 结构，发现孤立笔记和断链 | 自定义 |
+| `/note-scatter-gather` | 收集碎片笔记，整合成完整主题 | 自定义 |
+
+### 10.8 快速工作流
+
+```
+每日闭环：/obsidian-day-today → 工作 → /obsidian-day-close
+周度整合：/obsidian-mine-graduate → /obsidian-mine-emerge → /obsidian-mine-make → /obsidian-write-learned
+思维审计：/obsidian-think-contradict → /obsidian-think-challenge → /obsidian-think-drift
+```
+
+---
+
 ## 💡 今日要点
 
 > 1. **Skills = 封装好的工作流**，可自动触发
 > 2. **name + description** = Skill 的核心配置
 > 3. **从简单开始**，逐步完善
 > 4. **描述越清晰**，触发越准确
+> 5. **vin-prompts 命令库** = Obsidian 的 25 个 AI 分析命令
 
 ---
 

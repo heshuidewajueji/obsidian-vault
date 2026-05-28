@@ -449,6 +449,7 @@ uv run darwinian_evolver --help
 - [[Hermes 3 -核心功能]]
 - [[Hermes 5 -进阶用法]]
 - [[Hermes 7 -配置维护]]
+- [[Hermes 10 -工程控制论与自监控体系]]
 
 ---
 
