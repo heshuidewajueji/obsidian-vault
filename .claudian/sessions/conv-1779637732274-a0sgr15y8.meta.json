@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779637732274-a0sgr15y8",
+  "providerId": "claude",
+  "title": "搜索论文完善实施验收方案",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779637732274,
+  "updatedAt": 1779815356794,
+  "lastResponseAt": 1779639216138,
+  "sessionId": "840f4469-e7d0-410b-b674-7841e40e632f",
+  "providerState": {
+    "providerSessionId": "840f4469-e7d0-410b-b674-7841e40e632f"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 106720,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 108128,
+    "contextWindow": 200000,
+    "contextTokens": 214848,
+    "percentage": 100,
+    "contextWindowIsAuthoritative": true
+  }
+}

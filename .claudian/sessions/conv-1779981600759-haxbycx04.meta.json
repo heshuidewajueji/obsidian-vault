@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779981600759-haxbycx04",
+  "providerId": "claude",
+  "title": "# Role (角色设定)",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1779981600759,
+  "updatedAt": 1779982207415,
+  "lastResponseAt": 1779982207415,
+  "sessionId": "ebe5492f-40a8-41c5-baf9-4ed0e4c54092",
+  "providerState": {
+    "providerSessionId": "ebe5492f-40a8-41c5-baf9-4ed0e4c54092"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 55124,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 62528,
+    "contextWindow": 200000,
+    "contextTokens": 117652,
+    "percentage": 59,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779891298555-pm6w7e4tz",
+  "providerId": "claude",
+  "title": "解读选中内容",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779891298555,
+  "updatedAt": 1779893300840,
+  "lastResponseAt": 1779893300840,
+  "sessionId": "7440de14-cb80-4c26-8ca3-2879217a99ba",
+  "providerState": {
+    "providerSessionId": "7440de14-cb80-4c26-8ca3-2879217a99ba"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 63421,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 72954,
+    "contextWindow": 200000,
+    "contextTokens": 136375,
+    "percentage": 68,
+    "contextWindowIsAuthoritative": true
+  }
+}

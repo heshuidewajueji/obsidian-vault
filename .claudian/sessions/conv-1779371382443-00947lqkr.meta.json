@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779371382443-00947lqkr",
+  "providerId": "claude",
+  "title": "Master Claude Code usage",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779371382443,
+  "updatedAt": 1779815344912,
+  "lastResponseAt": 1779805575620,
+  "sessionId": "fb13cdcf-dc77-4a91-9cda-cb54193f10cb",
+  "providerState": {
+    "providerSessionId": "fb13cdcf-dc77-4a91-9cda-cb54193f10cb"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 76608,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 82592,
+    "contextWindow": 200000,
+    "contextTokens": 159200,
+    "percentage": 80,
+    "contextWindowIsAuthoritative": true
+  }
+}

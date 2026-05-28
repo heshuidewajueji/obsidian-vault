@@ -14,13 +14,13 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://www.xiaohongshu.com/explore/6a1818e70000000036032d6d?xsec_token=LBSeyOywMvz7LyEXov82ETq4t7J6LdDM2fFpf0g2UUG8I=&xsec_source=pc_notice",
-                "title": "这个开源项目直接让你家AI智商提升17倍 - 小红书",
+                "url": "https://www.xiaohongshu.com/notification",
+                "title": "通知 - 小红书",
                 "mode": "webview"
               },
               "pinned": true,
               "icon": "globe-2",
-              "title": "这个开源项目直接让你家AI智商提升17倍 - 小红书"
+              "title": "通知 - 小红书"
             }
           }
         ]
@@ -225,7 +225,7 @@
       "obsidian-projects:打开项目": false
     }
   },
-  "active": "9fc57a6fd629fa0a",
+  "active": "fbac121dc0871b4b",
   "lastOpenFiles": [
     "30-📂项目管理/知识沉淀",
     "00-🤖AI共享层/02-Archive/旧结构备份/README-AutoScript.md",
